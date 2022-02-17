@@ -1,7 +1,13 @@
+# PT-Br
 Tecnologia Usada:
 
 Front-End - React;
-Back-End - NodeJS, com MongoDB;
+Back-End - NodeJS, com MongoDB => repositório: https://github.com/ladcs/back-end-to-do-list.git
+
+deploye
+
+front-end:
+back-end: https://ladcstodolistback.herokuapp.com/
 
 Arquitetura usada:
 
@@ -16,10 +22,17 @@ Remover uma tarefa da lista;
 Atualizar uma tarefa da lista;
 A tarefa possui status editável: pendente, em andamento ou pronto;
 
+# ENG
+
 Used Tec:
 
 Front-End: React;
-Back-End: NodeJs, with MongoDB;
+Back-End: NodeJs, with MongoDB => repository: https://github.com/ladcs/back-end-to-do-list.git
+
+deploye
+
+front-end:
+back-end: https://ladcstodolistback.herokuapp.com/
 
 Used Architecture:
 
